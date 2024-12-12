@@ -1,0 +1,558 @@
+1||ID||ID||--||None
+2||cubename||cubename||--||--
+3||ra||ra||--||None
+4||dec||dec||--||None
+5||void||void||--||None
+6||TType||TType||--||None
+7||Re_arc||Re_arc||--||--
+8||FoV||FoV||--||--
+9||redshift||redshift||--||--
+10||DL||DL||--||--
+11||DA||DA||--||--
+12||PA||PA||--||--
+13||ellip||ellip||--||--
+14||Re_kpc||Re_kpc||--||--
+15||log_Mass||log_Mass||--||--
+16||e_log_Mass||e_log_Mass||--||--
+17||log_SFR_Ha||log_SFR_Ha||--||--
+18||e_log_SFR_Ha||e_log_SFR_Ha||--||--
+19||log_SFR_ssp||log_SFR_ssp||--||--
+20||e_log_SFR_ssp||e_log_SFR_ssp||--||--
+21||log_NII_Ha_cen||log_NII_Ha_cen||--||--
+22||e_log_NII_Ha_cen||e_log_NII_Ha_cen||--||--
+23||log_OIII_Hb_cen||log_OIII_Hb_cen||--||--
+24||e_log_OIII_Hb_cen||e_log_OIII_Hb_cen||--||--
+25||log_SII_Ha_cen||log_SII_Ha_cen||--||--
+26||e_log_SII_Ha_cen||e_log_SII_Ha_cen||--||--
+27||log_OII_Hb_cen||log_OII_Hb_cen||--||--
+28||e_log_OII_Hb_cen||e_log_OII_Hb_cen||--||--
+29||EW_Ha_cen||EW_Ha_cen||--||--
+30||e_EW_Ha_cen||e_EW_Ha_cen||--||--
+31||ZH_LW_Re_fit||ZH_LW_Re_fit||--||--
+32||e_ZH_LW_Re_fit||e_ZH_LW_Re_fit||--||--
+33||alpha_ZH_LW_Re_fit||alpha_ZH_LW_Re_fit||--||--
+34||e_alpha_ZH_LW_Re_fit||e_alpha_ZH_LW_Re_fit||--||--
+35||ZH_MW_Re_fit||ZH_MW_Re_fit||--||--
+36||e_ZH_MW_Re_fit||e_ZH_MW_Re_fit||--||--
+37||alpha_ZH_MW_Re_fit||alpha_ZH_MW_Re_fit||--||--
+38||e_alpha_ZH_MW_Re_fit||e_alpha_ZH_MW_Re_fit||--||--
+39||Age_LW_Re_fit||Age_LW_Re_fit||--||--
+40||e_Age_LW_Re_fit||e_Age_LW_Re_fit||--||--
+41||alpha_Age_LW_Re_fit||alpha_Age_LW_Re_fit||--||--
+42||e_alpha_Age_LW_Re_fit||e_alpha_Age_LW_Re_fit||--||--
+43||Age_MW_Re_fit||Age_MW_Re_fit||--||--
+44||e_Age_MW_Re_fit||e_Age_MW_Re_fit||--||--
+45||alpha_Age_MW_Re_fit||alpha_Age_MW_Re_fit||--||--
+46||e_alpha_Age_MW_Re_fit||e_alpha_Age_MW_Re_fit||--||--
+47||log_Mass_gas||log_Mass_gas||--||--
+48||vel_sigma_Re||vel_sigma_Re||--||--
+49||e_vel_sigma_Re||e_vel_sigma_Re||--||--
+50||log_SFR_SF||log_SFR_SF||--||--
+51||log_SFR_D_C||log_SFR_D_C||--||--
+52||OH_O3N2_cen||OH_O3N2_cen||dex||Oxygen abundance using the calibrator O3N2 at the central region
+53||e_OH_O3N2_cen||e_OH_O3N2_cen||dex||Error in Oxygen abundance using the calibrator O3N2 at the central region
+54||OH_N2_cen||OH_N2_cen||dex||Oxygen abundance using the calibrator N2 at the central region
+55||e_OH_N2_cen||e_OH_N2_cen||dex||Error in Oxygen abundance using the calibrator N2 at the central region
+56||OH_ONS_cen||OH_ONS_cen||dex||Oxygen abundance using the calibrator ONS at the central region
+57||e_OH_ONS_cen||e_OH_ONS_cen||dex||Error in Oxygen abundance using the calibrator ONS at the central region
+58||OH_R23_cen||OH_R23_cen||dex||Oxygen abundance using the calibrator R23 at the central region
+59||e_OH_R23_cen||e_OH_R23_cen||dex||Error in Oxygen abundance using the calibrator R23 at the central region
+60||OH_pyqz_cen||OH_pyqz_cen||dex||Oxygen abundance using the calibrator pyqz at the central region
+61||e_OH_pyqz_cen||e_OH_pyqz_cen||dex||Error in Oxygen abundance using the calibrator pyqz at the central region
+62||OH_t2_cen||OH_t2_cen||dex||Oxygen abundance using the calibrator t2 at the central region
+63||e_OH_t2_cen||e_OH_t2_cen||dex||Error in Oxygen abundance using the calibrator t2 at the central region
+64||OH_M08_cen||OH_M08_cen||dex||Oxygen abundance using the calibrator M08 at the central region
+65||e_OH_M08_cen||e_OH_M08_cen||dex||Error in Oxygen abundance using the calibrator M08 at the central region
+66||OH_T04_cen||OH_T04_cen||dex||Oxygen abundance using the calibrator T04 at the central region
+67||e_OH_T04_cen||e_OH_T04_cen||dex||Error in Oxygen abundance using the calibrator T04 at the central region
+68||OH_dop_cen||OH_dop_cen||dex||Oxygen abundance using the calibrator dop at the central region
+69||e_OH_dop_cen||e_OH_dop_cen||dex||Error in Oxygen abundance using the calibrator dop at the central region
+70||OH_O3N2_EPM09_cen||OH_O3N2_EPM09_cen||dex||Oxygen abundance using the calibrator O3N2_EPM09 at the central region
+71||e_OH_O3N2_EPM09_cen||e_OH_O3N2_EPM09_cen||dex||Error in Oxygen abundance using the calibrator O3N2_EPM09 at the central region
+72||log_OI_Ha_cen||log_OI_Ha_cen||--||--
+73||e_log_OI_Ha_cen||e_log_OI_Ha_cen||--||--
+74||Ha_Hb_cen||Ha_Hb_cen||--||--
+75||e_Ha_Hb_cen||e_Ha_Hb_cen||--||--
+76||log_NII_Ha_Re||log_NII_Ha_Re||--||--
+77||e_log_NII_Ha_Re||e_log_NII_Ha_Re||--||--
+78||log_OIII_Hb_Re||log_OIII_Hb_Re||--||--
+79||e_log_OIII_Hb_Re||e_log_OIII_Hb_Re||--||--
+80||log_SII_Ha_Re||log_SII_Ha_Re||--||--
+81||e_log_SII_Ha_Re||e_log_SII_Ha_Re||--||--
+82||log_OII_Hb_Re||log_OII_Hb_Re||--||--
+83||e_log_OII_Hb_Re||e_log_OII_Hb_Re||--||--
+84||log_OI_Ha_Re||log_OI_Ha_Re||--||--
+85||e_log_OI_Ha_Re||e_log_OI_Ha_Re||--||--
+86||EW_Ha_Re||EW_Ha_Re||--||--
+87||e_EW_Ha_Re||e_EW_Ha_Re||--||--
+88||Ha_Hb_Re||Ha_Hb_Re||--||--
+89||e_Ha_Hb_Re||e_Ha_Hb_Re||--||--
+90||log_NII_Ha_ALL||log_NII_Ha_ALL||--||--
+91||e_log_NII_Ha_ALL||e_log_NII_Ha_ALL||--||--
+92||log_OIII_Hb_ALL||log_OIII_Hb_ALL||--||--
+93||e_log_OIII_Hb_ALL||e_log_OIII_Hb_ALL||--||--
+94||log_SII_Ha_ALL||log_SII_Ha_ALL||--||--
+95||e_log_SII_Ha_ALL||e_log_SII_Ha_ALL||--||--
+96||log_OII_Hb_ALL||log_OII_Hb_ALL||--||--
+97||e_log_OII_Hb_ALL||e_log_OII_Hb_ALL||--||--
+98||log_OI_Ha_ALL||log_OI_Ha_ALL||--||--
+99||e_log_OI_Ha_ALL||e_log_OI_Ha_ALL||--||--
+100||EW_Ha_ALL||EW_Ha_ALL||--||--
+101||e_EW_Ha_ALL||e_EW_Ha_ALL||--||--
+102||Ha_Hb_ALL||Ha_Hb_ALL||--||--
+103||Sigma_Mass_cen||Sigma_Mass_cen||--||--
+104||e_Sigma_Mass_cen||e_Sigma_Mass_cen||--||--
+105||Sigma_Mass_Re||Sigma_Mass_Re||--||--
+106||e_Sigma_Mass_Re||e_Sigma_Mass_Re||--||--
+107||Sigma_Mass_ALL||Sigma_Mass_ALL||--||--
+108||e_Sigma_Mass_ALL||e_Sigma_Mass_ALL||--||--
+109||T30||T30||--||--
+110||ZH_T30||ZH_T30||--||--
+111||ZH_Re_T30||ZH_Re_T30||--||--
+112||a_ZH_T30||a_ZH_T30||--||--
+113||T40||T40||--||--
+114||ZH_T40||ZH_T40||--||--
+115||ZH_Re_T40||ZH_Re_T40||--||--
+116||a_ZH_T40||a_ZH_T40||--||--
+117||T50||T50||--||--
+118||ZH_T50||ZH_T50||--||--
+119||ZH_Re_T50||ZH_Re_T50||--||--
+120||a_ZH_T50||a_ZH_T50||--||--
+121||T60||T60||--||--
+122||ZH_T60||ZH_T60||--||--
+123||ZH_Re_T60||ZH_Re_T60||--||--
+124||a_ZH_T60||a_ZH_T60||--||--
+125||T70||T70||--||--
+126||ZH_T70||ZH_T70||--||--
+127||ZH_Re_T70||ZH_Re_T70||--||--
+128||a_ZH_T70||a_ZH_T70||--||--
+129||T80||T80||--||--
+130||ZH_T80||ZH_T80||--||--
+131||ZH_Re_T80||ZH_Re_T80||--||--
+132||a_ZH_T80||a_ZH_T80||--||--
+133||T90||T90||--||--
+134||ZH_T90||ZH_T90||--||--
+135||ZH_Re_T90||ZH_Re_T90||--||--
+136||a_ZH_T90||a_ZH_T90||--||--
+137||T95||T95||--||--
+138||ZH_T95||ZH_T95||--||--
+139||ZH_Re_T95||ZH_Re_T95||--||--
+140||a_ZH_T95||a_ZH_T95||--||--
+141||T99||T99||--||--
+142||ZH_T99||ZH_T99||--||--
+143||ZH_Re_T99||ZH_Re_T99||--||--
+144||a_ZH_T99||a_ZH_T99||--||--
+145||log_Mass_gas_Av_gas_OH||log_Mass_gas_Av_gas_OH||dex||Oxygen abundance using the calibrator log_Mass_gas_Av_gas_OH at the central region
+146||log_Mass_gas_Av_ssp_OH||log_Mass_gas_Av_ssp_OH||dex||Oxygen abundance using the calibrator log_Mass_gas_Av_ssp_OH at the central region
+147||vel_ssp_2||vel_ssp_2||--||--
+148||e_vel_ssp_2||e_vel_ssp_2||--||--
+149||vel_Ha_2||vel_Ha_2||--||--
+150||e_vel_Ha_2||e_vel_Ha_2||--||--
+151||vel_ssp_1||vel_ssp_1||--||--
+152||e_vel_ssp_1||e_vel_ssp_1||--||--
+153||vel_Ha_1||vel_Ha_1||--||--
+154||e_vel_Ha_1||e_vel_Ha_1||--||--
+155||log_SFR_ssp_100Myr||log_SFR_ssp_100Myr||--||--
+156||log_SFR_ssp_10Myr||log_SFR_ssp_10Myr||--||--
+157||vel_disp_Ha_cen||vel_disp_Ha_cen||--||--
+158||vel_disp_ssp_cen||vel_disp_ssp_cen||--||--
+159||vel_disp_Ha_1Re||vel_disp_Ha_1Re||--||--
+160||vel_disp_ssp_1Re||vel_disp_ssp_1Re||--||--
+161||log_Mass_in_Re||log_Mass_in_Re||--||--
+162||ML_int||ML_int||--||--
+163||ML_avg||ML_avg||--||--
+164||F_Ha_cen||F_Ha_cen||--||--
+165||e_F_Ha_cen||e_F_Ha_cen||--||--
+166||R50_kpc_V||R50_kpc_V||--||--
+167||e_R50_kpc_V||e_R50_kpc_V||--||--
+168||R50_kpc_Mass||R50_kpc_Mass||--||--
+169||e_R50_kpc_Mass||e_R50_kpc_Mass||--||--
+170||log_Mass_corr_in_R50_V||log_Mass_corr_in_R50_V||--||--
+171||e_log_Mass_corr_in_R50_V||e_log_Mass_corr_in_R50_V||--||--
+172||log_Mass_gas_Av_gas_log_log||log_Mass_gas_Av_gas_log_log||--||--
+173||Av_gas_Re||Av_gas_Re||--||--
+174||e_Av_gas_Re||e_Av_gas_Re||--||--
+175||Av_ssp_Re||Av_ssp_Re||--||--
+176||e_Av_ssp_Re||e_Av_ssp_Re||--||--
+177||Lambda_Re||Lambda_Re||--||--
+178||e_Lambda_Re||e_Lambda_Re||--||--
+179||flux_[OII]3726.03_Re_fit||flux_[OII]3726.03_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [OII]3726.03 at 1Re
+180||e_flux_[OII]3726.03_Re_fit||e_flux_[OII]3726.03_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [OII]3726.03 at 1Re
+181||flux_[OII]3726.03_alpha_fit||flux_[OII]3726.03_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [OII]3726.03 at 1Re
+182||e_flux_[OII]3726.03_alpha_fit||e_flux_[OII]3726.03_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [OII]3726.03 at 1Re
+183||flux_[OII]3728.82_Re_fit||flux_[OII]3728.82_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [OII]3728.82 at 1Re
+184||e_flux_[OII]3728.82_Re_fit||e_flux_[OII]3728.82_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [OII]3728.82 at 1Re
+185||flux_[OII]3728.82_alpha_fit||flux_[OII]3728.82_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [OII]3728.82 at 1Re
+186||e_flux_[OII]3728.82_alpha_fit||e_flux_[OII]3728.82_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [OII]3728.82 at 1Re
+187||flux_HI3734.37_Re_fit||flux_HI3734.37_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line HI3734.37 at 1Re
+188||e_flux_HI3734.37_Re_fit||e_flux_HI3734.37_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HI3734.37 at 1Re
+189||flux_HI3734.37_alpha_fit||flux_HI3734.37_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line HI3734.37 at 1Re
+190||e_flux_HI3734.37_alpha_fit||e_flux_HI3734.37_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HI3734.37 at 1Re
+191||flux_HI3797.9_Re_fit||flux_HI3797.9_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line HI3797.9 at 1Re
+192||e_flux_HI3797.9_Re_fit||e_flux_HI3797.9_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HI3797.9 at 1Re
+193||flux_HI3797.9_alpha_fit||flux_HI3797.9_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line HI3797.9 at 1Re
+194||e_flux_HI3797.9_alpha_fit||e_flux_HI3797.9_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HI3797.9 at 1Re
+195||flux_HeI3888.65_Re_fit||flux_HeI3888.65_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line HeI3888.65 at 1Re
+196||e_flux_HeI3888.65_Re_fit||e_flux_HeI3888.65_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HeI3888.65 at 1Re
+197||flux_HeI3888.65_alpha_fit||flux_HeI3888.65_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line HeI3888.65 at 1Re
+198||e_flux_HeI3888.65_alpha_fit||e_flux_HeI3888.65_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HeI3888.65 at 1Re
+199||flux_HI3889.05_Re_fit||flux_HI3889.05_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line HI3889.05 at 1Re
+200||e_flux_HI3889.05_Re_fit||e_flux_HI3889.05_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HI3889.05 at 1Re
+201||flux_HI3889.05_alpha_fit||flux_HI3889.05_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line HI3889.05 at 1Re
+202||e_flux_HI3889.05_alpha_fit||e_flux_HI3889.05_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HI3889.05 at 1Re
+203||flux_HeI3964.73_Re_fit||flux_HeI3964.73_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line HeI3964.73 at 1Re
+204||e_flux_HeI3964.73_Re_fit||e_flux_HeI3964.73_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HeI3964.73 at 1Re
+205||flux_HeI3964.73_alpha_fit||flux_HeI3964.73_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line HeI3964.73 at 1Re
+206||e_flux_HeI3964.73_alpha_fit||e_flux_HeI3964.73_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HeI3964.73 at 1Re
+207||flux_[NeIII]3967.46_Re_fit||flux_[NeIII]3967.46_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [NeIII]3967.46 at 1Re
+208||e_flux_[NeIII]3967.46_Re_fit||e_flux_[NeIII]3967.46_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [NeIII]3967.46 at 1Re
+209||flux_[NeIII]3967.46_alpha_fit||flux_[NeIII]3967.46_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [NeIII]3967.46 at 1Re
+210||e_flux_[NeIII]3967.46_alpha_fit||e_flux_[NeIII]3967.46_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [NeIII]3967.46 at 1Re
+211||flux_CaII3968.47_Re_fit||flux_CaII3968.47_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line CaII3968.47 at 1Re
+212||e_flux_CaII3968.47_Re_fit||e_flux_CaII3968.47_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line CaII3968.47 at 1Re
+213||flux_CaII3968.47_alpha_fit||flux_CaII3968.47_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line CaII3968.47 at 1Re
+214||e_flux_CaII3968.47_alpha_fit||e_flux_CaII3968.47_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line CaII3968.47 at 1Re
+215||flux_Hepsilon3970.07_Re_fit||flux_Hepsilon3970.07_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line Hepsilon3970.07 at 1Re
+216||e_flux_Hepsilon3970.07_Re_fit||e_flux_Hepsilon3970.07_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line Hepsilon3970.07 at 1Re
+217||flux_Hepsilon3970.07_alpha_fit||flux_Hepsilon3970.07_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line Hepsilon3970.07 at 1Re
+218||e_flux_Hepsilon3970.07_alpha_fit||e_flux_Hepsilon3970.07_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line Hepsilon3970.07 at 1Re
+219||flux_Hdelta4101.77_Re_fit||flux_Hdelta4101.77_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line Hdelta4101.77 at 1Re
+220||e_flux_Hdelta4101.77_Re_fit||e_flux_Hdelta4101.77_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line Hdelta4101.77 at 1Re
+221||flux_Hdelta4101.77_alpha_fit||flux_Hdelta4101.77_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line Hdelta4101.77 at 1Re
+222||e_flux_Hdelta4101.77_alpha_fit||e_flux_Hdelta4101.77_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line Hdelta4101.77 at 1Re
+223||flux_Hgamma4340.49_Re_fit||flux_Hgamma4340.49_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line Hgamma4340.49 at 1Re
+224||e_flux_Hgamma4340.49_Re_fit||e_flux_Hgamma4340.49_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line Hgamma4340.49 at 1Re
+225||flux_Hgamma4340.49_alpha_fit||flux_Hgamma4340.49_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line Hgamma4340.49 at 1Re
+226||e_flux_Hgamma4340.49_alpha_fit||e_flux_Hgamma4340.49_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line Hgamma4340.49 at 1Re
+227||flux_Hbeta4861.36_Re_fit||flux_Hbeta4861.36_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line Hbeta4861.36 at 1Re
+228||e_flux_Hbeta4861.36_Re_fit||e_flux_Hbeta4861.36_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line Hbeta4861.36 at 1Re
+229||flux_Hbeta4861.36_alpha_fit||flux_Hbeta4861.36_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line Hbeta4861.36 at 1Re
+230||e_flux_Hbeta4861.36_alpha_fit||e_flux_Hbeta4861.36_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line Hbeta4861.36 at 1Re
+231||flux_[OIII]4958.91_Re_fit||flux_[OIII]4958.91_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [OIII]4958.91 at 1Re
+232||e_flux_[OIII]4958.91_Re_fit||e_flux_[OIII]4958.91_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [OIII]4958.91 at 1Re
+233||flux_[OIII]4958.91_alpha_fit||flux_[OIII]4958.91_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [OIII]4958.91 at 1Re
+234||e_flux_[OIII]4958.91_alpha_fit||e_flux_[OIII]4958.91_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [OIII]4958.91 at 1Re
+235||flux_[OIII]5006.84_Re_fit||flux_[OIII]5006.84_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [OIII]5006.84 at 1Re
+236||e_flux_[OIII]5006.84_Re_fit||e_flux_[OIII]5006.84_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [OIII]5006.84 at 1Re
+237||flux_[OIII]5006.84_alpha_fit||flux_[OIII]5006.84_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [OIII]5006.84 at 1Re
+238||e_flux_[OIII]5006.84_alpha_fit||e_flux_[OIII]5006.84_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [OIII]5006.84 at 1Re
+239||flux_HeI5015.68_Re_fit||flux_HeI5015.68_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line HeI5015.68 at 1Re
+240||e_flux_HeI5015.68_Re_fit||e_flux_HeI5015.68_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HeI5015.68 at 1Re
+241||flux_HeI5015.68_alpha_fit||flux_HeI5015.68_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line HeI5015.68 at 1Re
+242||e_flux_HeI5015.68_alpha_fit||e_flux_HeI5015.68_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HeI5015.68 at 1Re
+243||flux_[NI]5197.9_Re_fit||flux_[NI]5197.9_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [NI]5197.9 at 1Re
+244||e_flux_[NI]5197.9_Re_fit||e_flux_[NI]5197.9_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [NI]5197.9 at 1Re
+245||flux_[NI]5197.9_alpha_fit||flux_[NI]5197.9_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [NI]5197.9 at 1Re
+246||e_flux_[NI]5197.9_alpha_fit||e_flux_[NI]5197.9_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [NI]5197.9 at 1Re
+247||flux_[NI]5200.26_Re_fit||flux_[NI]5200.26_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [NI]5200.26 at 1Re
+248||e_flux_[NI]5200.26_Re_fit||e_flux_[NI]5200.26_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [NI]5200.26 at 1Re
+249||flux_[NI]5200.26_alpha_fit||flux_[NI]5200.26_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [NI]5200.26 at 1Re
+250||e_flux_[NI]5200.26_alpha_fit||e_flux_[NI]5200.26_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [NI]5200.26 at 1Re
+251||flux_HeI5876.0_Re_fit||flux_HeI5876.0_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line HeI5876.0 at 1Re
+252||e_flux_HeI5876.0_Re_fit||e_flux_HeI5876.0_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HeI5876.0 at 1Re
+253||flux_HeI5876.0_alpha_fit||flux_HeI5876.0_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line HeI5876.0 at 1Re
+254||e_flux_HeI5876.0_alpha_fit||e_flux_HeI5876.0_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line HeI5876.0 at 1Re
+255||flux_NaI5889.95_Re_fit||flux_NaI5889.95_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line NaI5889.95 at 1Re
+256||e_flux_NaI5889.95_Re_fit||e_flux_NaI5889.95_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line NaI5889.95 at 1Re
+257||flux_NaI5889.95_alpha_fit||flux_NaI5889.95_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line NaI5889.95 at 1Re
+258||e_flux_NaI5889.95_alpha_fit||e_flux_NaI5889.95_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line NaI5889.95 at 1Re
+259||flux_NaI5895.92_Re_fit||flux_NaI5895.92_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line NaI5895.92 at 1Re
+260||e_flux_NaI5895.92_Re_fit||e_flux_NaI5895.92_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line NaI5895.92 at 1Re
+261||flux_NaI5895.92_alpha_fit||flux_NaI5895.92_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line NaI5895.92 at 1Re
+262||e_flux_NaI5895.92_alpha_fit||e_flux_NaI5895.92_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line NaI5895.92 at 1Re
+263||flux_[OI]6300.3_Re_fit||flux_[OI]6300.3_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [OI]6300.3 at 1Re
+264||e_flux_[OI]6300.3_Re_fit||e_flux_[OI]6300.3_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [OI]6300.3 at 1Re
+265||flux_[OI]6300.3_alpha_fit||flux_[OI]6300.3_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [OI]6300.3 at 1Re
+266||e_flux_[OI]6300.3_alpha_fit||e_flux_[OI]6300.3_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [OI]6300.3 at 1Re
+267||flux_[NII]6548.05_Re_fit||flux_[NII]6548.05_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [NII]6548.05 at 1Re
+268||e_flux_[NII]6548.05_Re_fit||e_flux_[NII]6548.05_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [NII]6548.05 at 1Re
+269||flux_[NII]6548.05_alpha_fit||flux_[NII]6548.05_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [NII]6548.05 at 1Re
+270||e_flux_[NII]6548.05_alpha_fit||e_flux_[NII]6548.05_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [NII]6548.05 at 1Re
+271||flux_Halpha6562.85_Re_fit||flux_Halpha6562.85_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line Halpha6562.85 at 1Re
+272||e_flux_Halpha6562.85_Re_fit||e_flux_Halpha6562.85_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line Halpha6562.85 at 1Re
+273||flux_Halpha6562.85_alpha_fit||flux_Halpha6562.85_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line Halpha6562.85 at 1Re
+274||e_flux_Halpha6562.85_alpha_fit||e_flux_Halpha6562.85_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line Halpha6562.85 at 1Re
+275||flux_[NII]6583.45_Re_fit||flux_[NII]6583.45_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [NII]6583.45 at 1Re
+276||e_flux_[NII]6583.45_Re_fit||e_flux_[NII]6583.45_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [NII]6583.45 at 1Re
+277||flux_[NII]6583.45_alpha_fit||flux_[NII]6583.45_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [NII]6583.45 at 1Re
+278||e_flux_[NII]6583.45_alpha_fit||e_flux_[NII]6583.45_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [NII]6583.45 at 1Re
+279||flux_[SII]6716.44_Re_fit||flux_[SII]6716.44_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [SII]6716.44 at 1Re
+280||e_flux_[SII]6716.44_Re_fit||e_flux_[SII]6716.44_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [SII]6716.44 at 1Re
+281||flux_[SII]6716.44_alpha_fit||flux_[SII]6716.44_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [SII]6716.44 at 1Re
+282||e_flux_[SII]6716.44_alpha_fit||e_flux_[SII]6716.44_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [SII]6716.44 at 1Re
+283||flux_[SII]6730.82_Re_fit||flux_[SII]6730.82_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [SII]6730.82 at 1Re
+284||e_flux_[SII]6730.82_Re_fit||e_flux_[SII]6730.82_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [SII]6730.82 at 1Re
+285||flux_[SII]6730.82_alpha_fit||flux_[SII]6730.82_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [SII]6730.82 at 1Re
+286||e_flux_[SII]6730.82_alpha_fit||e_flux_[SII]6730.82_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [SII]6730.82 at 1Re
+287||flux_[ArIII]7135.8_Re_fit||flux_[ArIII]7135.8_Re_fit||10^-16 erg/s/cm^2||Flux intensity of line [ArIII]7135.8 at 1Re
+288||e_flux_[ArIII]7135.8_Re_fit||e_flux_[ArIII]7135.8_Re_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [ArIII]7135.8 at 1Re
+289||flux_[ArIII]7135.8_alpha_fit||flux_[ArIII]7135.8_alpha_fit||10^-16 erg/s/cm^2||Flux intensity of line [ArIII]7135.8 at 1Re
+290||e_flux_[ArIII]7135.8_alpha_fit||e_flux_[ArIII]7135.8_alpha_fit||10^-16 erg/s/cm^2||Error in the flux intensity of line [ArIII]7135.8 at 1Re
+291||OH_Mar13_N2_Re_fit||OH_Mar13_N2_Re_fit||dex||Oxygen abundance using the calibrator Mar13_N2 at 1Re
+292||e_OH_Mar13_N2_Re_fit||e_OH_Mar13_N2_Re_fit||dex||Error in Oxygen abundance using the calibrator Mar13_N2 at 1Re
+293||OH_Mar13_N2_alpha_fit||OH_Mar13_N2_alpha_fit||dex||Slope of the O/H gradient using the calibrator Mar13_N2
+294||e_OH_Mar13_N2_alpha_fit||e_OH_Mar13_N2_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Mar13_N2
+295||OH_Mar13_O3N2_Re_fit||OH_Mar13_O3N2_Re_fit||dex||Oxygen abundance using the calibrator Mar13_O3N2 at 1Re
+296||e_OH_Mar13_O3N2_Re_fit||e_OH_Mar13_O3N2_Re_fit||dex||Error in Oxygen abundance using the calibrator Mar13_O3N2 at 1Re
+297||OH_Mar13_O3N2_alpha_fit||OH_Mar13_O3N2_alpha_fit||dex||Slope of the O/H gradient using the calibrator Mar13_O3N2
+298||e_OH_Mar13_O3N2_alpha_fit||e_OH_Mar13_O3N2_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Mar13_O3N2
+299||OH_T04_Re_fit||OH_T04_Re_fit||dex||Oxygen abundance using the calibrator T04 at 1Re
+300||e_OH_T04_Re_fit||e_OH_T04_Re_fit||dex||Error in Oxygen abundance using the calibrator T04 at 1Re
+301||OH_T04_alpha_fit||OH_T04_alpha_fit||dex||Slope of the O/H gradient using the calibrator T04
+302||e_OH_T04_alpha_fit||e_OH_T04_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator T04
+303||OH_Pet04_N2_lin_Re_fit||OH_Pet04_N2_lin_Re_fit||dex||Oxygen abundance using the calibrator Pet04_N2_lin at 1Re
+304||e_OH_Pet04_N2_lin_Re_fit||e_OH_Pet04_N2_lin_Re_fit||dex||Error in Oxygen abundance using the calibrator Pet04_N2_lin at 1Re
+305||OH_Pet04_N2_lin_alpha_fit||OH_Pet04_N2_lin_alpha_fit||dex||Slope of the O/H gradient using the calibrator Pet04_N2_lin
+306||e_OH_Pet04_N2_lin_alpha_fit||e_OH_Pet04_N2_lin_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Pet04_N2_lin
+307||OH_Pet04_N2_poly_Re_fit||OH_Pet04_N2_poly_Re_fit||dex||Oxygen abundance using the calibrator Pet04_N2_poly at 1Re
+308||e_OH_Pet04_N2_poly_Re_fit||e_OH_Pet04_N2_poly_Re_fit||dex||Error in Oxygen abundance using the calibrator Pet04_N2_poly at 1Re
+309||OH_Pet04_N2_poly_alpha_fit||OH_Pet04_N2_poly_alpha_fit||dex||Slope of the O/H gradient using the calibrator Pet04_N2_poly
+310||e_OH_Pet04_N2_poly_alpha_fit||e_OH_Pet04_N2_poly_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Pet04_N2_poly
+311||OH_Pet04_O3N2_Re_fit||OH_Pet04_O3N2_Re_fit||dex||Oxygen abundance using the calibrator Pet04_O3N2 at 1Re
+312||e_OH_Pet04_O3N2_Re_fit||e_OH_Pet04_O3N2_Re_fit||dex||Error in Oxygen abundance using the calibrator Pet04_O3N2 at 1Re
+313||OH_Pet04_O3N2_alpha_fit||OH_Pet04_O3N2_alpha_fit||dex||Slope of the O/H gradient using the calibrator Pet04_O3N2
+314||e_OH_Pet04_O3N2_alpha_fit||e_OH_Pet04_O3N2_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Pet04_O3N2
+315||OH_Kew02_N2O2_Re_fit||OH_Kew02_N2O2_Re_fit||dex||Oxygen abundance using the calibrator Kew02_N2O2 at 1Re
+316||e_OH_Kew02_N2O2_Re_fit||e_OH_Kew02_N2O2_Re_fit||dex||Error in Oxygen abundance using the calibrator Kew02_N2O2 at 1Re
+317||OH_Kew02_N2O2_alpha_fit||OH_Kew02_N2O2_alpha_fit||dex||Slope of the O/H gradient using the calibrator Kew02_N2O2
+318||e_OH_Kew02_N2O2_alpha_fit||e_OH_Kew02_N2O2_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Kew02_N2O2
+319||OH_Pil10_ONS_Re_fit||OH_Pil10_ONS_Re_fit||dex||Oxygen abundance using the calibrator Pil10_ONS at 1Re
+320||e_OH_Pil10_ONS_Re_fit||e_OH_Pil10_ONS_Re_fit||dex||Error in Oxygen abundance using the calibrator Pil10_ONS at 1Re
+321||OH_Pil10_ONS_alpha_fit||OH_Pil10_ONS_alpha_fit||dex||Slope of the O/H gradient using the calibrator Pil10_ONS
+322||e_OH_Pil10_ONS_alpha_fit||e_OH_Pil10_ONS_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Pil10_ONS
+323||OH_Pil10_ON_Re_fit||OH_Pil10_ON_Re_fit||dex||Oxygen abundance using the calibrator Pil10_ON at 1Re
+324||e_OH_Pil10_ON_Re_fit||e_OH_Pil10_ON_Re_fit||dex||Error in Oxygen abundance using the calibrator Pil10_ON at 1Re
+325||OH_Pil10_ON_alpha_fit||OH_Pil10_ON_alpha_fit||dex||Slope of the O/H gradient using the calibrator Pil10_ON
+326||e_OH_Pil10_ON_alpha_fit||e_OH_Pil10_ON_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Pil10_ON
+327||OH_Pil11_NS_Re_fit||OH_Pil11_NS_Re_fit||dex||Oxygen abundance using the calibrator Pil11_NS at 1Re
+328||e_OH_Pil11_NS_Re_fit||e_OH_Pil11_NS_Re_fit||dex||Error in Oxygen abundance using the calibrator Pil11_NS at 1Re
+329||OH_Pil11_NS_alpha_fit||OH_Pil11_NS_alpha_fit||dex||Slope of the O/H gradient using the calibrator Pil11_NS
+330||e_OH_Pil11_NS_alpha_fit||e_OH_Pil11_NS_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Pil11_NS
+331||OH_Cur20_RS32_Re_fit||OH_Cur20_RS32_Re_fit||dex||Oxygen abundance using the calibrator Cur20_RS32 at 1Re
+332||e_OH_Cur20_RS32_Re_fit||e_OH_Cur20_RS32_Re_fit||dex||Error in Oxygen abundance using the calibrator Cur20_RS32 at 1Re
+333||OH_Cur20_RS32_alpha_fit||OH_Cur20_RS32_alpha_fit||dex||Slope of the O/H gradient using the calibrator Cur20_RS32
+334||e_OH_Cur20_RS32_alpha_fit||e_OH_Cur20_RS32_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Cur20_RS32
+335||OH_Cur20_R3_Re_fit||OH_Cur20_R3_Re_fit||dex||Oxygen abundance using the calibrator Cur20_R3 at 1Re
+336||e_OH_Cur20_R3_Re_fit||e_OH_Cur20_R3_Re_fit||dex||Error in Oxygen abundance using the calibrator Cur20_R3 at 1Re
+337||OH_Cur20_R3_alpha_fit||OH_Cur20_R3_alpha_fit||dex||Slope of the O/H gradient using the calibrator Cur20_R3
+338||e_OH_Cur20_R3_alpha_fit||e_OH_Cur20_R3_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Cur20_R3
+339||OH_Cur20_O3O2_Re_fit||OH_Cur20_O3O2_Re_fit||dex||Oxygen abundance using the calibrator Cur20_O3O2 at 1Re
+340||e_OH_Cur20_O3O2_Re_fit||e_OH_Cur20_O3O2_Re_fit||dex||Error in Oxygen abundance using the calibrator Cur20_O3O2 at 1Re
+341||OH_Cur20_O3O2_alpha_fit||OH_Cur20_O3O2_alpha_fit||dex||Slope of the O/H gradient using the calibrator Cur20_O3O2
+342||e_OH_Cur20_O3O2_alpha_fit||e_OH_Cur20_O3O2_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Cur20_O3O2
+343||OH_Cur20_S2_Re_fit||OH_Cur20_S2_Re_fit||dex||Oxygen abundance using the calibrator Cur20_S2 at 1Re
+344||e_OH_Cur20_S2_Re_fit||e_OH_Cur20_S2_Re_fit||dex||Error in Oxygen abundance using the calibrator Cur20_S2 at 1Re
+345||OH_Cur20_S2_alpha_fit||OH_Cur20_S2_alpha_fit||dex||Slope of the O/H gradient using the calibrator Cur20_S2
+346||e_OH_Cur20_S2_alpha_fit||e_OH_Cur20_S2_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Cur20_S2
+347||OH_Cur20_R2_Re_fit||OH_Cur20_R2_Re_fit||dex||Oxygen abundance using the calibrator Cur20_R2 at 1Re
+348||e_OH_Cur20_R2_Re_fit||e_OH_Cur20_R2_Re_fit||dex||Error in Oxygen abundance using the calibrator Cur20_R2 at 1Re
+349||OH_Cur20_R2_alpha_fit||OH_Cur20_R2_alpha_fit||dex||Slope of the O/H gradient using the calibrator Cur20_R2
+350||e_OH_Cur20_R2_alpha_fit||e_OH_Cur20_R2_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Cur20_R2
+351||OH_Cur20_N2_Re_fit||OH_Cur20_N2_Re_fit||dex||Oxygen abundance using the calibrator Cur20_N2 at 1Re
+352||e_OH_Cur20_N2_Re_fit||e_OH_Cur20_N2_Re_fit||dex||Error in Oxygen abundance using the calibrator Cur20_N2 at 1Re
+353||OH_Cur20_N2_alpha_fit||OH_Cur20_N2_alpha_fit||dex||Slope of the O/H gradient using the calibrator Cur20_N2
+354||e_OH_Cur20_N2_alpha_fit||e_OH_Cur20_N2_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Cur20_N2
+355||OH_Cur20_R23_Re_fit||OH_Cur20_R23_Re_fit||dex||Oxygen abundance using the calibrator Cur20_R23 at 1Re
+356||e_OH_Cur20_R23_Re_fit||e_OH_Cur20_R23_Re_fit||dex||Error in Oxygen abundance using the calibrator Cur20_R23 at 1Re
+357||OH_Cur20_R23_alpha_fit||OH_Cur20_R23_alpha_fit||dex||Slope of the O/H gradient using the calibrator Cur20_R23
+358||e_OH_Cur20_R23_alpha_fit||e_OH_Cur20_R23_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Cur20_R23
+359||OH_Cur20_O3N2_Re_fit||OH_Cur20_O3N2_Re_fit||dex||Oxygen abundance using the calibrator Cur20_O3N2 at 1Re
+360||e_OH_Cur20_O3N2_Re_fit||e_OH_Cur20_O3N2_Re_fit||dex||Error in Oxygen abundance using the calibrator Cur20_O3N2 at 1Re
+361||OH_Cur20_O3N2_alpha_fit||OH_Cur20_O3N2_alpha_fit||dex||Slope of the O/H gradient using the calibrator Cur20_O3N2
+362||e_OH_Cur20_O3N2_alpha_fit||e_OH_Cur20_O3N2_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Cur20_O3N2
+363||OH_Cur20_O3S2_Re_fit||OH_Cur20_O3S2_Re_fit||dex||Oxygen abundance using the calibrator Cur20_O3S2 at 1Re
+364||e_OH_Cur20_O3S2_Re_fit||e_OH_Cur20_O3S2_Re_fit||dex||Error in Oxygen abundance using the calibrator Cur20_O3S2 at 1Re
+365||OH_Cur20_O3S2_alpha_fit||OH_Cur20_O3S2_alpha_fit||dex||Slope of the O/H gradient using the calibrator Cur20_O3S2
+366||e_OH_Cur20_O3S2_alpha_fit||e_OH_Cur20_O3S2_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Cur20_O3S2
+367||OH_KK04_Re_fit||OH_KK04_Re_fit||dex||Oxygen abundance using the calibrator KK04 at 1Re
+368||e_OH_KK04_Re_fit||e_OH_KK04_Re_fit||dex||Error in Oxygen abundance using the calibrator KK04 at 1Re
+369||OH_KK04_alpha_fit||OH_KK04_alpha_fit||dex||Slope of the O/H gradient using the calibrator KK04
+370||e_OH_KK04_alpha_fit||e_OH_KK04_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator KK04
+371||OH_Pil16_R_Re_fit||OH_Pil16_R_Re_fit||dex||Oxygen abundance using the calibrator Pil16_R at 1Re
+372||e_OH_Pil16_R_Re_fit||e_OH_Pil16_R_Re_fit||dex||Error in Oxygen abundance using the calibrator Pil16_R at 1Re
+373||OH_Pil16_R_alpha_fit||OH_Pil16_R_alpha_fit||dex||Slope of the O/H gradient using the calibrator Pil16_R
+374||e_OH_Pil16_R_alpha_fit||e_OH_Pil16_R_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Pil16_R
+375||OH_Pil16_S_Re_fit||OH_Pil16_S_Re_fit||dex||Oxygen abundance using the calibrator Pil16_S at 1Re
+376||e_OH_Pil16_S_Re_fit||e_OH_Pil16_S_Re_fit||dex||Error in Oxygen abundance using the calibrator Pil16_S at 1Re
+377||OH_Pil16_S_alpha_fit||OH_Pil16_S_alpha_fit||dex||Slope of the O/H gradient using the calibrator Pil16_S
+378||e_OH_Pil16_S_alpha_fit||e_OH_Pil16_S_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Pil16_S
+379||OH_Ho_Re_fit||OH_Ho_Re_fit||dex||Oxygen abundance using the calibrator Ho at 1Re
+380||e_OH_Ho_Re_fit||e_OH_Ho_Re_fit||dex||Error in Oxygen abundance using the calibrator Ho at 1Re
+381||OH_Ho_alpha_fit||OH_Ho_alpha_fit||dex||Slope of the O/H gradient using the calibrator Ho
+382||e_OH_Ho_alpha_fit||e_OH_Ho_alpha_fit||dex||Error in the slope of the O/H gradient using the calibrator Ho
+383||U_Dors_O32_Re_fit||U_Dors_O32_Re_fit||dex||log(U), ionization parameter using the calibrator Dors_O32 at 1Re
+384||e_U_Dors_O32_Re_fit||e_U_Dors_O32_Re_fit||dex||Error in log(U) using the calibrator Dors_O32 at 1Re
+385||U_Dors_O32_alpha_fit||U_Dors_O32_alpha_fit||dex||Slope of the log(U) gradient using the calibrator Dors_O32
+386||e_U_Dors_O32_alpha_fit||e_U_Dors_O32_alpha_fit||dex||Error in the slope of the log(U) gradient using the calibrator Dors_O32
+387||U_Dors_S_Re_fit||U_Dors_S_Re_fit||dex||log(U), ionization parameter using the calibrator Dors_S at 1Re
+388||e_U_Dors_S_Re_fit||e_U_Dors_S_Re_fit||dex||Error in log(U) using the calibrator Dors_S at 1Re
+389||U_Dors_S_alpha_fit||U_Dors_S_alpha_fit||dex||Slope of the log(U) gradient using the calibrator Dors_S
+390||e_U_Dors_S_alpha_fit||e_U_Dors_S_alpha_fit||dex||Error in the slope of the log(U) gradient using the calibrator Dors_S
+391||U_Mor16_O23_fs_Re_fit||U_Mor16_O23_fs_Re_fit||dex||log(U), ionization parameter using the calibrator Mor16_O23_fs at 1Re
+392||e_U_Mor16_O23_fs_Re_fit||e_U_Mor16_O23_fs_Re_fit||dex||Error in log(U) using the calibrator Mor16_O23_fs at 1Re
+393||U_Mor16_O23_fs_alpha_fit||U_Mor16_O23_fs_alpha_fit||dex||Slope of the log(U) gradient using the calibrator Mor16_O23_fs
+394||e_U_Mor16_O23_fs_alpha_fit||e_U_Mor16_O23_fs_alpha_fit||dex||Error in the slope of the log(U) gradient using the calibrator Mor16_O23_fs
+395||U_Mor16_O23_ts_Re_fit||U_Mor16_O23_ts_Re_fit||dex||log(U), ionization parameter using the calibrator Mor16_O23_ts at 1Re
+396||e_U_Mor16_O23_ts_Re_fit||e_U_Mor16_O23_ts_Re_fit||dex||Error in log(U) using the calibrator Mor16_O23_ts at 1Re
+397||U_Mor16_O23_ts_alpha_fit||U_Mor16_O23_ts_alpha_fit||dex||Slope of the log(U) gradient using the calibrator Mor16_O23_ts
+398||e_U_Mor16_O23_ts_alpha_fit||e_U_Mor16_O23_ts_alpha_fit||dex||Error in the slope of the log(U) gradient using the calibrator Mor16_O23_ts
+399||NH_Pil16_R_Re_fit||NH_Pil16_R_Re_fit||dex||Nitrogen abundance using the calibrator Pil16_R at 1Re
+400||e_NH_Pil16_R_Re_fit||e_NH_Pil16_R_Re_fit||dex||Error in Nitrogen abundance using the calibrator Pil16_R at 1Re
+401||NH_Pil16_R_alpha_fit||NH_Pil16_R_alpha_fit||dex||Slope of the N/H gradient using the calibrator Pil16_R
+402||e_NH_Pil16_R_alpha_fit||e_NH_Pil16_R_alpha_fit||dex||Error in the slope of the N/H gradient using the calibrator Pil16_R
+403||NO_Pil16_R_Re_fit||NO_Pil16_R_Re_fit||dex||N/O abundance using the calibrator Pil16_R at 1Re
+404||e_NO_Pil16_R_Re_fit||e_NO_Pil16_R_Re_fit||dex||Error in N/O abundance using the calibrator Pil16_R at 1Re
+405||NO_Pil16_R_alpha_fit||NO_Pil16_R_alpha_fit||dex||Slope of the N/O gradient using the calibrator Pil16_R
+406||e_NO_Pil16_R_alpha_fit||e_NO_Pil16_R_alpha_fit||dex||Error in the slope of the N/O gradient using the calibrator Pil16_R
+407||NO_Pil16_Ho_R_Re_fit||NO_Pil16_Ho_R_Re_fit||dex||N/O abundance using the calibrator Pil16_Ho_R at 1Re
+408||e_NO_Pil16_Ho_R_Re_fit||e_NO_Pil16_Ho_R_Re_fit||dex||Error in N/O abundance using the calibrator Pil16_Ho_R at 1Re
+409||NO_Pil16_Ho_R_alpha_fit||NO_Pil16_Ho_R_alpha_fit||dex||Slope of the N/O gradient using the calibrator Pil16_Ho_R
+410||e_NO_Pil16_Ho_R_alpha_fit||e_NO_Pil16_Ho_R_alpha_fit||dex||Error in the slope of the N/O gradient using the calibrator Pil16_Ho_R
+411||NO_Pil16_N2_R2_Re_fit||NO_Pil16_N2_R2_Re_fit||dex||N/O abundance using the calibrator Pil16_N2_R2 at 1Re
+412||e_NO_Pil16_N2_R2_Re_fit||e_NO_Pil16_N2_R2_Re_fit||dex||Error in N/O abundance using the calibrator Pil16_N2_R2 at 1Re
+413||NO_Pil16_N2_R2_alpha_fit||NO_Pil16_N2_R2_alpha_fit||dex||Slope of the N/O gradient using the calibrator Pil16_N2_R2
+414||e_NO_Pil16_N2_R2_alpha_fit||e_NO_Pil16_N2_R2_alpha_fit||dex||Error in the slope of the N/O gradient using the calibrator Pil16_N2_R2
+415||Ne_Oster_S_Re_fit||Ne_Oster_S_Re_fit||dex||n_e, electron density using the Oster_S estimator at 1Re
+416||e_Ne_Oster_S_Re_fit||e_Ne_Oster_S_Re_fit||dex||Error in n_e using the Oster_S estimator at 1Re
+417||Ne_Oster_S_alpha_fit||Ne_Oster_S_alpha_fit||dex||Slope of the n_e gradient using the Oster_S estimator
+418||e_Ne_Oster_S_alpha_fit||e_Ne_Oster_S_alpha_fit||dex||Error in the slope of n_e gradient using the Oster_S estimator
+419||C24668_Re_fit||C24668_Re_fit||Angstrom||Value of the C24668 stellar index at 1Re
+420||C24668_alpha_fit||C24668_alpha_fit||--||Slope of the gradient of the C24668 index
+421||CN1_Re_fit||CN1_Re_fit||Angstrom||Value of the CN1 stellar index at 1Re
+422||CN1_alpha_fit||CN1_alpha_fit||--||Slope of the gradient of the CN1 index
+423||CN2_Re_fit||CN2_Re_fit||Angstrom||Value of the CN2 stellar index at 1Re
+424||CN2_alpha_fit||CN2_alpha_fit||--||Slope of the gradient of the CN2 index
+425||Ca4227_Re_fit||Ca4227_Re_fit||Angstrom||Value of the Ca4227 stellar index at 1Re
+426||Ca4227_alpha_fit||Ca4227_alpha_fit||--||Slope of the gradient of the Ca4227 index
+427||Ca4455_Re_fit||Ca4455_Re_fit||Angstrom||Value of the Ca4455 stellar index at 1Re
+428||Ca4455_alpha_fit||Ca4455_alpha_fit||--||Slope of the gradient of the Ca4455 index
+429||CaH1_Re_fit||CaH1_Re_fit||Angstrom||Value of the CaH1 stellar index at 1Re
+430||CaH1_alpha_fit||CaH1_alpha_fit||--||Slope of the gradient of the CaH1 index
+431||CaH2_Re_fit||CaH2_Re_fit||Angstrom||Value of the CaH2 stellar index at 1Re
+432||CaH2_alpha_fit||CaH2_alpha_fit||--||Slope of the gradient of the CaH2 index
+433||CaHK_Re_fit||CaHK_Re_fit||Angstrom||Value of the CaHK stellar index at 1Re
+434||CaHK_alpha_fit||CaHK_alpha_fit||--||Slope of the gradient of the CaHK index
+435||Fe4383_Re_fit||Fe4383_Re_fit||Angstrom||Value of the Fe4383 stellar index at 1Re
+436||Fe4383_alpha_fit||Fe4383_alpha_fit||--||Slope of the gradient of the Fe4383 index
+437||Fe4531_Re_fit||Fe4531_Re_fit||Angstrom||Value of the Fe4531 stellar index at 1Re
+438||Fe4531_alpha_fit||Fe4531_alpha_fit||--||Slope of the gradient of the Fe4531 index
+439||Fe5015_Re_fit||Fe5015_Re_fit||Angstrom||Value of the Fe5015 stellar index at 1Re
+440||Fe5015_alpha_fit||Fe5015_alpha_fit||--||Slope of the gradient of the Fe5015 index
+441||Fe5270_Re_fit||Fe5270_Re_fit||Angstrom||Value of the Fe5270 stellar index at 1Re
+442||Fe5270_alpha_fit||Fe5270_alpha_fit||--||Slope of the gradient of the Fe5270 index
+443||Fe5335_Re_fit||Fe5335_Re_fit||Angstrom||Value of the Fe5335 stellar index at 1Re
+444||Fe5335_alpha_fit||Fe5335_alpha_fit||--||Slope of the gradient of the Fe5335 index
+445||Fe5406_Re_fit||Fe5406_Re_fit||Angstrom||Value of the Fe5406 stellar index at 1Re
+446||Fe5406_alpha_fit||Fe5406_alpha_fit||--||Slope of the gradient of the Fe5406 index
+447||Fe5709_Re_fit||Fe5709_Re_fit||Angstrom||Value of the Fe5709 stellar index at 1Re
+448||Fe5709_alpha_fit||Fe5709_alpha_fit||--||Slope of the gradient of the Fe5709 index
+449||Fe5782_Re_fit||Fe5782_Re_fit||Angstrom||Value of the Fe5782 stellar index at 1Re
+450||Fe5782_alpha_fit||Fe5782_alpha_fit||--||Slope of the gradient of the Fe5782 index
+451||G4300_Re_fit||G4300_Re_fit||Angstrom||Value of the G4300 stellar index at 1Re
+452||G4300_alpha_fit||G4300_alpha_fit||--||Slope of the gradient of the G4300 index
+453||HDeltaA_Re_fit||HDeltaA_Re_fit||Angstrom||Value of the HDeltaA stellar index at 1Re
+454||HDeltaA_alpha_fit||HDeltaA_alpha_fit||--||Slope of the gradient of the HDeltaA index
+455||HDeltaF_Re_fit||HDeltaF_Re_fit||Angstrom||Value of the HDeltaF stellar index at 1Re
+456||HDeltaF_alpha_fit||HDeltaF_alpha_fit||--||Slope of the gradient of the HDeltaF index
+457||HGammaA_Re_fit||HGammaA_Re_fit||Angstrom||Value of the HGammaA stellar index at 1Re
+458||HGammaA_alpha_fit||HGammaA_alpha_fit||--||Slope of the gradient of the HGammaA index
+459||HGammaF_Re_fit||HGammaF_Re_fit||Angstrom||Value of the HGammaF stellar index at 1Re
+460||HGammaF_alpha_fit||HGammaF_alpha_fit||--||Slope of the gradient of the HGammaF index
+461||Hb_Re_fit||Hb_Re_fit||Angstrom||Value of the Hb stellar index at 1Re
+462||Hb_alpha_fit||Hb_alpha_fit||--||Slope of the gradient of the Hb index
+463||Hdmod_Re_fit||Hdmod_Re_fit||Angstrom||Value of the Hdmod stellar index at 1Re
+464||Hdmod_alpha_fit||Hdmod_alpha_fit||--||Slope of the gradient of the Hdmod index
+465||Mg1_Re_fit||Mg1_Re_fit||Angstrom||Value of the Mg1 stellar index at 1Re
+466||Mg1_alpha_fit||Mg1_alpha_fit||--||Slope of the gradient of the Mg1 index
+467||Mg2_Re_fit||Mg2_Re_fit||Angstrom||Value of the Mg2 stellar index at 1Re
+468||Mg2_alpha_fit||Mg2_alpha_fit||--||Slope of the gradient of the Mg2 index
+469||MgICvD_Re_fit||MgICvD_Re_fit||Angstrom||Value of the MgICvD stellar index at 1Re
+470||MgICvD_alpha_fit||MgICvD_alpha_fit||--||Slope of the gradient of the MgICvD index
+471||Mgb_Re_fit||Mgb_Re_fit||Angstrom||Value of the Mgb stellar index at 1Re
+472||Mgb_alpha_fit||Mgb_alpha_fit||--||Slope of the gradient of the Mgb index
+473||NaD_Re_fit||NaD_Re_fit||Angstrom||Value of the NaD stellar index at 1Re
+474||NaD_alpha_fit||NaD_alpha_fit||--||Slope of the gradient of the NaD index
+475||SN_Re_fit||SN_Re_fit||--||Value of the SN stellar index at 1Re
+476||SN_alpha_fit||SN_alpha_fit||--||Slope of the gradient of the SN index
+477||TiO1_Re_fit||TiO1_Re_fit||Angstrom||Value of the TiO1 stellar index at 1Re
+478||TiO1_alpha_fit||TiO1_alpha_fit||--||Slope of the gradient of the TiO1 index
+479||TiO2SDSS_Re_fit||TiO2SDSS_Re_fit||Angstrom||Value of the TiO2SDSS stellar index at 1Re
+480||TiO2SDSS_alpha_fit||TiO2SDSS_alpha_fit||--||Slope of the gradient of the TiO2SDSS index
+481||TiO2_Re_fit||TiO2_Re_fit||Angstrom||Value of the TiO2 stellar index at 1Re
+482||TiO2_alpha_fit||TiO2_alpha_fit||--||Slope of the gradient of the TiO2 index
+483||aTiO_Re_fit||aTiO_Re_fit||Angstrom||Value of the aTiO stellar index at 1Re
+484||aTiO_alpha_fit||aTiO_alpha_fit||--||Slope of the gradient of the aTiO index
+485||bTiO_Re_fit||bTiO_Re_fit||Angstrom||Value of the bTiO stellar index at 1Re
+486||bTiO_alpha_fit||bTiO_alpha_fit||--||Slope of the gradient of the bTiO index
+487||e_C24668_Re_fit||e_C24668_Re_fit||Angstrom||Error of the C24668 stellar index at 1Re
+488||e_C24668_alpha_fit||e_C24668_alpha_fit||--||Error in the slope of the gradient of the C24668 index
+489||e_CN1_Re_fit||e_CN1_Re_fit||Angstrom||Error of the CN1 stellar index at 1Re
+490||e_CN1_alpha_fit||e_CN1_alpha_fit||--||Error in the slope of the gradient of the CN1 index
+491||e_CN2_Re_fit||e_CN2_Re_fit||Angstrom||Error of the CN2 stellar index at 1Re
+492||e_CN2_alpha_fit||e_CN2_alpha_fit||--||Error in the slope of the gradient of the CN2 index
+493||e_Ca4227_Re_fit||e_Ca4227_Re_fit||Angstrom||Error of the Ca4227 stellar index at 1Re
+494||e_Ca4227_alpha_fit||e_Ca4227_alpha_fit||--||Error in the slope of the gradient of the Ca4227 index
+495||e_Ca4455_Re_fit||e_Ca4455_Re_fit||Angstrom||Error of the Ca4455 stellar index at 1Re
+496||e_Ca4455_alpha_fit||e_Ca4455_alpha_fit||--||Error in the slope of the gradient of the Ca4455 index
+497||e_CaH1_Re_fit||e_CaH1_Re_fit||Angstrom||Error of the CaH1 stellar index at 1Re
+498||e_CaH1_alpha_fit||e_CaH1_alpha_fit||--||Error in the slope of the gradient of the CaH1 index
+499||e_CaH2_Re_fit||e_CaH2_Re_fit||Angstrom||Error of the CaH2 stellar index at 1Re
+500||e_CaH2_alpha_fit||e_CaH2_alpha_fit||--||Error in the slope of the gradient of the CaH2 index
+501||e_CaHK_Re_fit||e_CaHK_Re_fit||Angstrom||Error of the CaHK stellar index at 1Re
+502||e_CaHK_alpha_fit||e_CaHK_alpha_fit||--||Error in the slope of the gradient of the CaHK index
+503||e_Fe4383_Re_fit||e_Fe4383_Re_fit||Angstrom||Error of the Fe4383 stellar index at 1Re
+504||e_Fe4383_alpha_fit||e_Fe4383_alpha_fit||--||Error in the slope of the gradient of the Fe4383 index
+505||e_Fe4531_Re_fit||e_Fe4531_Re_fit||Angstrom||Error of the Fe4531 stellar index at 1Re
+506||e_Fe4531_alpha_fit||e_Fe4531_alpha_fit||--||Error in the slope of the gradient of the Fe4531 index
+507||e_Fe5015_Re_fit||e_Fe5015_Re_fit||Angstrom||Error of the Fe5015 stellar index at 1Re
+508||e_Fe5015_alpha_fit||e_Fe5015_alpha_fit||--||Error in the slope of the gradient of the Fe5015 index
+509||e_Fe5270_Re_fit||e_Fe5270_Re_fit||Angstrom||Error of the Fe5270 stellar index at 1Re
+510||e_Fe5270_alpha_fit||e_Fe5270_alpha_fit||--||Error in the slope of the gradient of the Fe5270 index
+511||e_Fe5335_Re_fit||e_Fe5335_Re_fit||Angstrom||Error of the Fe5335 stellar index at 1Re
+512||e_Fe5335_alpha_fit||e_Fe5335_alpha_fit||--||Error in the slope of the gradient of the Fe5335 index
+513||e_Fe5406_Re_fit||e_Fe5406_Re_fit||Angstrom||Error of the Fe5406 stellar index at 1Re
+514||e_Fe5406_alpha_fit||e_Fe5406_alpha_fit||--||Error in the slope of the gradient of the Fe5406 index
+515||e_Fe5709_Re_fit||e_Fe5709_Re_fit||Angstrom||Error of the Fe5709 stellar index at 1Re
+516||e_Fe5709_alpha_fit||e_Fe5709_alpha_fit||--||Error in the slope of the gradient of the Fe5709 index
+517||e_Fe5782_Re_fit||e_Fe5782_Re_fit||Angstrom||Error of the Fe5782 stellar index at 1Re
+518||e_Fe5782_alpha_fit||e_Fe5782_alpha_fit||--||Error in the slope of the gradient of the Fe5782 index
+519||e_G4300_Re_fit||e_G4300_Re_fit||Angstrom||Error of the G4300 stellar index at 1Re
+520||e_G4300_alpha_fit||e_G4300_alpha_fit||--||Error in the slope of the gradient of the G4300 index
+521||e_HDeltaA_Re_fit||e_HDeltaA_Re_fit||Angstrom||Error of the HDeltaA stellar index at 1Re
+522||e_HDeltaA_alpha_fit||e_HDeltaA_alpha_fit||--||Error in the slope of the gradient of the HDeltaA index
+523||e_HDeltaF_Re_fit||e_HDeltaF_Re_fit||Angstrom||Error of the HDeltaF stellar index at 1Re
+524||e_HDeltaF_alpha_fit||e_HDeltaF_alpha_fit||--||Error in the slope of the gradient of the HDeltaF index
+525||e_HGammaA_Re_fit||e_HGammaA_Re_fit||Angstrom||Error of the HGammaA stellar index at 1Re
+526||e_HGammaA_alpha_fit||e_HGammaA_alpha_fit||--||Error in the slope of the gradient of the HGammaA index
+527||e_HGammaF_Re_fit||e_HGammaF_Re_fit||Angstrom||Error of the HGammaF stellar index at 1Re
+528||e_HGammaF_alpha_fit||e_HGammaF_alpha_fit||--||Error in the slope of the gradient of the HGammaF index
+529||e_Hb_Re_fit||e_Hb_Re_fit||Angstrom||Error of the Hb stellar index at 1Re
+530||e_Hb_alpha_fit||e_Hb_alpha_fit||--||Error in the slope of the gradient of the Hb index
+531||e_Hdmod_Re_fit||e_Hdmod_Re_fit||Angstrom||Error of the Hdmod stellar index at 1Re
+532||e_Hdmod_alpha_fit||e_Hdmod_alpha_fit||--||Error in the slope of the gradient of the Hdmod index
+533||e_Mg1_Re_fit||e_Mg1_Re_fit||Angstrom||Error of the Mg1 stellar index at 1Re
+534||e_Mg1_alpha_fit||e_Mg1_alpha_fit||--||Error in the slope of the gradient of the Mg1 index
+535||e_Mg2_Re_fit||e_Mg2_Re_fit||Angstrom||Error of the Mg2 stellar index at 1Re
+536||e_Mg2_alpha_fit||e_Mg2_alpha_fit||--||Error in the slope of the gradient of the Mg2 index
+537||e_MgICvD_Re_fit||e_MgICvD_Re_fit||Angstrom||Error of the MgICvD stellar index at 1Re
+538||e_MgICvD_alpha_fit||e_MgICvD_alpha_fit||--||Error in the slope of the gradient of the MgICvD index
+539||e_Mgb_Re_fit||e_Mgb_Re_fit||Angstrom||Error of the Mgb stellar index at 1Re
+540||e_Mgb_alpha_fit||e_Mgb_alpha_fit||--||Error in the slope of the gradient of the Mgb index
+541||e_NaD_Re_fit||e_NaD_Re_fit||Angstrom||Error of the NaD stellar index at 1Re
+542||e_NaD_alpha_fit||e_NaD_alpha_fit||--||Error in the slope of the gradient of the NaD index
+543||e_SN_Re_fit||e_SN_Re_fit||--||Error of the SN stellar index at 1Re
+544||e_SN_alpha_fit||e_SN_alpha_fit||--||Error in the slope of the gradient of the SN index
+545||e_TiO1_Re_fit||e_TiO1_Re_fit||Angstrom||Error of the TiO1 stellar index at 1Re
+546||e_TiO1_alpha_fit||e_TiO1_alpha_fit||--||Error in the slope of the gradient of the TiO1 index
+547||e_TiO2SDSS_Re_fit||e_TiO2SDSS_Re_fit||Angstrom||Error of the TiO2SDSS stellar index at 1Re
+548||e_TiO2SDSS_alpha_fit||e_TiO2SDSS_alpha_fit||--||Error in the slope of the gradient of the TiO2SDSS index
+549||e_TiO2_Re_fit||e_TiO2_Re_fit||Angstrom||Error of the TiO2 stellar index at 1Re
+550||e_TiO2_alpha_fit||e_TiO2_alpha_fit||--||Error in the slope of the gradient of the TiO2 index
+551||e_aTiO_Re_fit||e_aTiO_Re_fit||Angstrom||Error of the aTiO stellar index at 1Re
+552||e_aTiO_alpha_fit||e_aTiO_alpha_fit||--||Error in the slope of the gradient of the aTiO index
+553||e_bTiO_Re_fit||e_bTiO_Re_fit||Angstrom||Error of the bTiO stellar index at 1Re
+554||e_bTiO_alpha_fit||e_bTiO_alpha_fit||--||Error in the slope of the gradient of the bTiO index
+555||D4000_Re_fit||D4000_Re_fit||--||Value of the D4000 stellar index at 1Re
+556||e_D4000_Re_fit||e_D4000_Re_fit||--||Error of the D4000 stellar index at 1Re
+557||D4000_alpha_fit||D4000_alpha_fit||--||Slope of the gradient of the D4000 index
+558||e_D4000_alpha_fit||e_D4000_alpha_fit||--||Error in the slope of the gradient of the D4000 index
